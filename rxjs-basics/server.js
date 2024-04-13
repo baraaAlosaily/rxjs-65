@@ -30,6 +30,6 @@ const observer={
 
 // const source$=fromEvent(document,'keyup');
 
-const source$=of(1,2,3,4,5,6,7,8,9,10);
+// const source$=of(1,2,3,4,5,6,7,8,9,10);
 
-source$.subscribe(observer)
+// source$.subscribe(observer)
